@@ -1,0 +1,27 @@
+{
+  "machine": 
+  [
+   {"machines":[
+    {
+      "machine-name": "CNC",
+      "temperature" : "120",
+      "designed-RPM": "500",
+      "current-RPM" : "450",
+      "X":23,
+      "Y":54,
+      "Z":52
+    },
+    
+    {
+      "machine-name": "electrical_discharge_machining",
+      "temperature" : "150",
+      "designed-RPM": "800",
+      "current-RPM" : "400",
+      "X":86,
+      "Y":12,
+      "Z":56
+    }
+   
+  ]
+
+}
